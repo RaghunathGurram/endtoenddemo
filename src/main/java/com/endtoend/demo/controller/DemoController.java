@@ -11,8 +11,6 @@ public class DemoController {
 	@GetMapping("/print")
 	public String print() {
 		return "Welcome to End To End Demo";
-		
-		//Testing
 
 	}
 
